@@ -44,6 +44,6 @@ Estou sempre buscando aprender e me manter atualizado sobre as últimas tendênc
     align="left" 
     alt="GitHub Stats" 
     width="350"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jvsantos1&theme=algolia" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jvsantos1&theme=algolia&locale=pt-br" 
   />  
 </p>
