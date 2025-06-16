@@ -30,7 +30,7 @@ Estou sempre buscando aprender e me manter atualizado sobre as últimas tendênc
 
 <br/>
 
-### 📈 Estatísticas
+### Estatísticas
 <p>
   <img 
     align="left" 
