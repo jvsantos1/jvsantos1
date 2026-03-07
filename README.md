@@ -1,43 +1,39 @@
-# 🎈 João Victor Santos
+# 📊 João Victor Santos
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-santos-3b8aa1203/)
-[![Desenvolvedor FullStack](https://img.shields.io/badge/desenvolvedor%20Fullstack--%FF0000?style=for-the-badge&logoColor=white)](https://github.com/jvsantos1)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-osantos/)
+[![Analista de Dados](https://img.shields.io/badge/Analista%20de%20Dados--%2323D160?style=for-the-badge&logo=google-analytics&logoColor=white)](https://github.com/jvsantos1)
 
+Olá, pode me chamar de João Victor 👋.  
+Sou especializado em transformar dados brutos em insights estratégicos para a tomada de decisão.
 
-Olá, me chame de João Victor 👋. 
-Sou especializado em entregar soluções Full-Stack de alta qualidade.
+Atualmente, foco minha carreira em **Análise de Dados**, combinando uma base técnica sólida com uma visão analítica orientada a resultados. Tenho experiência no tratamento de grandes volumes de dados utilizando **Python (Pandas, NumPy)** e **SQL**, além de criar dashboards interativos que contam histórias através da visualização de dados.
 
-Como desenvolvedorcom foco em Front-End, tenho me especializado em React, Node e React Native, trago um conjunto diversificado de habilidades técnicas e experiência prática para projetos de desenvolvimento de software. Tenho um profundo conhecimento de React e sua arquitetura baseada em componentes, bem como de React Native e seu robusto framework expo. Apesar do meu foco ser mais voltado para o Front-End, estou constantemente me aprofundando no universo do Back-End, especialmente na construção de APIs com Node.js, autenticação com JWT e boas práticas de arquitetura. Estou atualmente aprimorando meus conhecimentos em Docker, com o objetivo de dominar ambientes isolados e fluxos de deploy mais eficientes.
+Meu objetivo é dominar o ciclo completo do dado: desde a extração e limpeza (ETL) até a modelagem estatística e apresentação para stakeholders. Venho aprimorando conhecimentos em **Estatística Aplicada** e ferramentas de BI para garantir que cada análise entregue valor real ao negócio.
 
-Sou capaz de trabalhar tanto front-end quanto back-end, trabalhando em estreita colaboração com designers, gerentes de produto e equipes de desenvolvimento para construir soluções escaláveis ​​e de alta qualidade. Além disso, possuo excelentes habilidades interpessoais e de comunicação, o que me permite colaborar efetivamente com outros membros da equipe e me comunicar claramente com as partes interessadas.
-
-Estou sempre buscando aprender e me manter atualizado sobre as últimas tendências e tecnologias em desenvolvimento de software e ansioso para aplicar minha experiência e conhecimento a novos desafios.
+Sou um comunicador eficaz, capaz de traduzir termos técnicos para uma linguagem de negócios, facilitando a colaboração entre equipes multidisciplinares e tomadores de decisão.
 
 ---
 
-
- <div style="display: inline_block"><br>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img alt="React Native" src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<div style="display: inline_block"><br>
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img alt="SQL" src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
+<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
 
-<br/>
-
-### Estatísticas
+### 📈 Estatísticas e Foco
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 5px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantos1&theme=algolia&layout=compact&custom_title=Tecnologias&langs_conunt=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantos1&theme=algolia&layout=compact&custom_title=Tecnologias_Analíticas&langs_count=9"
   />
 
   <img 
@@ -47,3 +43,11 @@ Estou sempre buscando aprender e me manter atualizado sobre as últimas tendênc
     src="https://github-readme-streak-stats.herokuapp.com/?user=jvsantos1&theme=algolia&locale=pt-br" 
   />  
 </p>
+
+<br clear="both">
+
+---
+### 🛠️ No que estou trabalhando:
+* 🔍 Projetos de EDA (Exploratory Data Analysis) com Python.
+* 🗄️ Otimização de queries complexas em SQL.
+* 📊 Dashboards automatizados para visualização de métricas de performance.
