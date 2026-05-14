@@ -1,4 +1,4 @@
-#  João Victor Santos | Data Engineer in Progress
+#  João Victor Santos | Data Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-osantos/)
 [![Engenharia de Dados](https://img.shields.io/badge/Engenharia%20de%20Dados--%23FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/jvsantos1)
